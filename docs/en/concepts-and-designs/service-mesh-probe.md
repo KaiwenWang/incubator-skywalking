@@ -10,7 +10,7 @@ such as A/B testing, canary releases, rate limiting, access control, and end-to-
 
 ## Where does the probe collect data from?
 Istio is a very typical Service Mesh design and implementor. It defines **Control Panel** and **Data Panel**,
-which are wide used. Here is Istio Architecture:
+which are widely used. Here is Istio Architecture:
 
 <img src="https://istio.io/docs/concepts/what-is-istio/img/overview/arch.svg"/>
 
